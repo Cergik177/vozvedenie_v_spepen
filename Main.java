@@ -1,21 +1,3 @@
-/*package ru.non_stop;
-import java.util.Scanner;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner enter = new Scanner(System.in);
-        int a;
-        String b;
-        int c;
-        System.out.println("Введите число ");
-        a = enter.nextInt();
-        System.out.println("действие");
-        b = enter.next(+,-);
-        System.out.println("Введите число");
-        c = enter.nextInt();
-        System.out.println(b);
-    }
-}*/
 //прога дlя возведения в степерь
 package ru.non_stop;
 import java.util.Scanner;
